@@ -1,0 +1,3 @@
+rootProject.name = 'sc_c_rn'
+
+include ':app'
